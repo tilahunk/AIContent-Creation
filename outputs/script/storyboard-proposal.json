@@ -1,0 +1,133 @@
+{
+  "project": {
+    "title": "The Next Page",
+    "description": "On the morning a neighborhood bookbindery is due to close, a granddaughter discovers that her grandfather's craft still has a place in contemporary Addis Ababa.",
+    "duration_seconds": 75,
+    "language": "en",
+    "subtitle_language": "en",
+    "aspect_ratios": ["9:16", "16:9"]
+  },
+  "creative_direction": {
+    "audience": "Families and community audiences",
+    "emotional_goal": "Tenderness, renewal, and intergenerational connection",
+    "visual_style": "Observational contemporary Addis Ababa urban drama, intimate performances, natural dawn and sunset light, tactile paper and thread, grounded production design, authentic Ethiopian handwoven cotton textiles used naturally in contemporary clothing; varied neighborhood wardrobes, not costume uniformity",
+    "music_style": "Original restrained instrumental with a warm plucked-string motif and soft hand percussion; no sampled recordings or imitation of a specific ceremonial form"
+  },
+  "characters": [
+    {
+      "id": "hana",
+      "description": "Hana, a fictional Ethiopian woman in her early twenties, observant and practical. Wardrobe continuity: a contemporary white cotton habesha kemis with restrained handwoven tibeb bands at the hem and sleeves, plus a lightweight netela shawl worn naturally while working. Keep the woven cotton texture visible, her appearance consistent and natural, and avoid glamorized stereotypes; no real-person likeness.",
+      "reference_image": "outputs/references/hana.png"
+    },
+    {
+      "id": "bekele",
+      "description": "Bekele, a fictional Ethiopian man in his late sixties, Hana's grandfather and a patient neighborhood bookbinder. Wardrobe continuity: a simple white cotton shirt with a soft handwoven gabi draped over his shoulders, showing subtle woven texture and border. Gentle presence, expressive hands, no real-person likeness.",
+      "reference_image": "outputs/references/bekele.png"
+    },
+    {
+      "id": "sami",
+      "description": "Sami, a fictional Ethiopian boy about twelve, a neighbor who brings a battered school notebook to be repaired. Contemporary school clothes with a small, understated handwoven cotton scarf; age-appropriate and practical, no real-person likeness.",
+      "reference_image": "outputs/references/sami.png"
+    }
+  ],
+  "shots": [
+    {
+      "id": "shot_001",
+      "duration_seconds": 8,
+      "purpose": "Introduce Hana, the neighborhood, and the final key",
+      "image_prompt": "Wide cinematic view of a quiet contemporary Addis Ababa neighborhood street at dawn, a small independent bookbindery opening its metal shutters, fictional Ethiopian young woman Hana entering with a small brass key in her palm, wearing a contemporary white cotton habesha kemis with handwoven tibeb border and a light netela shawl, visible woven texture, natural cool-blue dawn with a narrow warm edge of sunlight, lived-in urban details, documentary realism, no readable signs, no real-person likeness.",
+      "motion_prompt": "Slow street-level push toward the shop as the shutters rise; settle briefly on the key in Hana's hand.",
+      "narration": "The morning the little bookshop was meant to close, Hana came to return one last key.",
+      "subtitle_en": "The morning the little bookshop was meant to close, Hana came to return one last key.",
+      "music_cue": "A single soft plucked-string note begins under quiet street ambience.",
+      "transition": "fade"
+    },
+    {
+      "id": "shot_002",
+      "duration_seconds": 9,
+      "purpose": "Show Bekele's craft and the shop's uncertain future",
+      "image_prompt": "Intimate interior of a modest contemporary Addis Ababa bookbindery, fictional Ethiopian grandfather Bekele carefully stitching a worn book spine by hand, wearing a simple white cotton shirt and handwoven gabi draped over his shoulders; Hana watches in her white cotton habesha kemis with woven tibeb border and light netela shawl, thinning shelves and paper offcuts in soft morning light, tactile cloth and paper detail, restrained natural colors, no readable text, no real-person likeness.",
+      "motion_prompt": "Gentle close push toward Bekele's hands sewing the book, then rack focus to Hana watching.",
+      "narration": "Her grandfather was repairing a book nobody had asked him to save.",
+      "subtitle_en": "Her grandfather was repairing a book nobody had asked him to save.",
+      "music_cue": "The plucked-string motif continues quietly.",
+      "transition": "cut"
+    },
+    {
+      "id": "shot_003",
+      "duration_seconds": 9,
+      "purpose": "Reveal Hana's doubt and Bekele's quiet hope",
+      "image_prompt": "Inside the same small bookbindery, Hana folds an empty cardboard carton in her white cotton habesha kemis with handwoven tibeb border and light netela shawl; Bekele, in a white cotton shirt with handwoven gabi, smooths a repaired book and leaves a clear space on the counter, contemporary Addis Ababa light and muted street movement beyond the window, naturalistic composition, visible authentic woven-cotton textures, no readable text, no real-person likeness.",
+      "motion_prompt": "Slow lateral move from the folded carton to the repaired book and the open space on the counter.",
+      "narration": "She thought the city had forgotten this small room.",
+      "subtitle_en": "She thought the city had forgotten this small room.",
+      "music_cue": "A low, warm sustained tone joins the plucked motif.",
+      "transition": "crossfade"
+    },
+    {
+      "id": "shot_004",
+      "duration_seconds": 10,
+      "purpose": "Give the shop a reason to remain open",
+      "image_prompt": "A fictional Ethiopian boy about twelve enters the bookbindery holding a battered school notebook carefully against his chest, wearing contemporary school clothes and a small understated handwoven cotton scarf; Bekele in a white shirt and woven gabi and Hana in a white cotton habesha kemis with tibeb border and light netela look up from the worktable, quiet human moment in a contemporary Addis Ababa neighborhood shop, soft side light, respectful natural performances, no readable text, no real-person likeness.",
+      "motion_prompt": "Hold a medium shot as Sami enters, then gently move toward the notebook as he places it on the counter.",
+      "narration": "Then a boy arrived with a notebook and a story he could not bear to lose.",
+      "subtitle_en": "Then a boy arrived with a notebook and a story he could not bear to lose.",
+      "music_cue": "A gentle hand-percussion pulse enters, very restrained.",
+      "transition": "cut"
+    },
+    {
+      "id": "shot_005",
+      "duration_seconds": 10,
+      "purpose": "Pass the craft from one generation to another",
+      "image_prompt": "Close view of fictional grandfather Bekele, in a white cotton shirt with handwoven gabi, guiding his adult granddaughter Hana, in a contemporary white cotton habesha kemis with woven tibeb border and light netela shawl, as she learns a simple bookbinding stitch; a battered school notebook and small brass key on the worktable, intimate contemporary Addis Ababa setting, tactile Ethiopian woven cotton visible beside paper and thread, warm natural window light, no readable text, no real-person likeness.",
+      "motion_prompt": "Steady close-up tracking the thread through paper; pause as Hana completes the stitch herself.",
+      "narration": "Bekele gave Hana the needle. Start with what is torn, he told her.",
+      "subtitle_en": "Bekele gave Hana the needle. Start with what is torn, he told her.",
+      "music_cue": "Plucked motif becomes gently more assured.",
+      "transition": "crossfade"
+    },
+    {
+      "id": "shot_006",
+      "duration_seconds": 10,
+      "purpose": "Turn a private repair into a shared effort",
+      "image_prompt": "Several fictional Ethiopian neighbors gather around the bookbindery worktable in contemporary Addis Ababa: one offers a worn paperback, another a family photograph, another helps clear the empty carton; Hana wears her white cotton habesha kemis with tibeb border and light netela, Bekele his white shirt and woven gabi, while neighbors wear varied contemporary clothes with individual handwoven Ethiopian cotton accents rather than matching costumes; warm afternoon light, candid community realism, visible textile weave, no readable text, no real-person likeness.",
+      "motion_prompt": "Slow, measured move around the table as hands pass books and make room for one another.",
+      "narration": "One by one, neighbors brought pages, photographs, and time.",
+      "subtitle_en": "One by one, neighbors brought pages, photographs, and time.",
+      "music_cue": "Soft hand percussion joins the growing string motif.",
+      "transition": "crossfade"
+    },
+    {
+      "id": "shot_007",
+      "duration_seconds": 9,
+      "purpose": "Show the renewed shop as a place for people",
+      "image_prompt": "At sunset inside the same neighborhood bookbindery, Sami in contemporary school clothes with a small handwoven cotton scarf reads from his repaired notebook to a small circle of fictional neighbors; Bekele listens in his white shirt and woven gabi, Hana in her cotton habesha kemis with tibeb border and light netela looks around the full room; neighbors wear varied contemporary Ethiopian outfits with handwoven cotton details, honest intimate performances, warm window light, no legible writing, no real-person likeness.",
+      "motion_prompt": "Slow, gentle arc around the reading circle, ending on Hana listening.",
+      "narration": "By sunset, the shop was full - not with customers, but with voices.",
+      "subtitle_en": "By sunset, the shop was full - not with customers, but with voices.",
+      "music_cue": "The instrumental reaches a modest, warm peak without overpowering the room.",
+      "transition": "crossfade"
+    },
+    {
+      "id": "shot_008",
+      "duration_seconds": 10,
+      "purpose": "End on a concrete promise of continuation",
+      "image_prompt": "Evening in the bookbindery: Hana, in her contemporary white cotton habesha kemis with woven tibeb border and light netela shawl, places Sami's repaired notebook on a newly cleared shelf and hangs a small brass key beside the door; Bekele, in his white shirt and handwoven gabi, switches off the work lamp, leaving warm light in the window as the contemporary Addis Ababa street settles outside, cinematic but natural, visible Ethiopian woven-cotton texture, no readable signs, no real-person likeness.",
+      "motion_prompt": "Slow push toward the notebook and key, then hold on the warm shop window from the street.",
+      "narration": "The shop would open again tomorrow. The next page was waiting.",
+      "subtitle_en": "The shop would open again tomorrow. The next page was waiting.",
+      "music_cue": "Resolve the plucked motif softly, leaving a brief breath of room tone.",
+      "transition": "fade"
+    }
+  ],
+  "audio": {
+    "narration_enabled": true,
+    "background_music_enabled": true,
+    "music_ducking": true
+  },
+  "end_card": {
+    "enabled": true,
+    "text": "An original story. Made with AI.",
+    "duration_seconds": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "project": {
+    "title": "The Heritage Short",
+    "description": "A cinematic family heritage story inspired by community memory and intergenerational connection.",
+    "duration_seconds": 75,
+    "language": "am",
+    "subtitle_language": "en",
+    "aspect_ratios": ["9:16", "16:9"]
+  },
+  "creative_direction": {
+    "audience": "Families and community members",
+    "emotional_goal": "Nostalgia, inspiration, and connection",
+    "visual_style": "Warm cinematic documentary",
+    "music_style": "Emotional traditional instrumental"
+  },
+  "characters": [
+    {
+      "id": "main_character",
+      "description": "A fictional, original older community storyteller, warm and dignified, no real-person likeness.",
+      "reference_image": "outputs/references/main_character.png"
+    }
+  ],
+  "shots": [
+    {"id":"shot_001","duration_seconds":8,"purpose":"Establish the setting","image_prompt":"A warm Ethiopian highland town at dawn, textured walls, soft golden light, cinematic documentary style.","motion_prompt":"Slow aerial descent toward the town.","narration":"በዚህ መንደር ታሪክ በእያንዳንዱ ቤት ውስጥ ኑሯል።","music_cue":"Gentle instrumental introduction","transition":"fade"},
+    {"id":"shot_002","duration_seconds":9,"purpose":"Introduce a family space","image_prompt":"A fictional family courtyard, handmade textiles, clay jars, and morning light.","motion_prompt":"Gentle lateral dolly reveal.","narration":"ከትውልድ ወደ ትውልድ በጥበብ እና በታሪክ ተያይዘዋል።","music_cue":"Soft folk melody enters","transition":"crossfade"},
+    {"id":"shot_003","duration_seconds":9,"purpose":"Show inherited craft","image_prompt":"Hands weaving a traditional textile at a wooden loom, intimate close-up, warm side light.","motion_prompt":"Slow close-up push with fibers in focus.","narration":"እያንዳንዱ ክር ቀደም የኖሩ ሰዎችን ማስታወሻ ይይዛል።","music_cue":"Melody continues with low percussion","transition":"crossfade"},
+    {"id":"shot_004","duration_seconds":9,"purpose":"Connect generations","image_prompt":"A fictional elder and young adult share tea beside a window, silhouettes and dust motes.","motion_prompt":"Static shot with subtle handheld warmth.","narration":"ትኩስ ጠላት ዙሪያ ያለው ተውሳክ ድምጽ ይኖራል።","music_cue":"Strings add tenderness","transition":"crossfade"},
+    {"id":"shot_005","duration_seconds":10,"purpose":"Reveal a community ritual","image_prompt":"A community courtyard gathering, original fictional participants, banners and earth-toned clothing.","motion_prompt":"Crane upward through the gathering.","narration":"እንባ ብቻ አይደለም፤ ትውልድ አንድነትን ይገነባል።","music_cue":"Rhythm broadens","transition":"crossfade"},
+    {"id":"shot_006","duration_seconds":10,"purpose":"Show movement and renewal","image_prompt":"Young people restoring an old community structure, dust, sunlight, cinematic wide shot.","motion_prompt":"Forward tracking shot through the work.","narration":"ዛሬ የደረሰው ጥበብ ከነገ አዲስ ቅርጽ ይሰጣል።","music_cue":"Percussion and melody rise","transition":"crossfade"},
+    {"id":"shot_007","duration_seconds":10,"purpose":"Express hope","image_prompt":"Children walking along a hillside at sunset, weaving a line of warm silhouettes.","motion_prompt":"Slow side dolly following the group.","narration":"በእያንዳንዱ እርምጃ ታሪክ ወደፊት ይሄዳል።","music_cue":"Full ensemble reaches hopeful peak","transition":"crossfade"},
+    {"id":"shot_008","duration_seconds":10,"purpose":"Close with reflection","image_prompt":"Quiet sunset over the fictional town, one lit window in the foreground, contemplative wide frame.","motion_prompt":"Slow push toward the lit window, then gentle hold.","narration":"ውርስ የሰዎች ማስታወሻ፣ ተጠቃሚነት እና ተስፋ ድርሻ ነው።","music_cue":"Resolve gently to a single traditional instrument","transition":"fade"}
+  ],
+  "audio": {
+    "narration_enabled": true,
+    "background_music_enabled": true,
+    "music_ducking": true
+  },
+  "end_card": {
+    "enabled": true,
+    "text": "Created with AI",
+    "duration_seconds": 4
+  }
+}

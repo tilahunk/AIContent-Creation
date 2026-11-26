@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+# Local run state
+.pipeline-cache.json
+runs.jsonl
+
+# Generated media is large; keep the source scripts and storyboard deliverables.
+outputs/*
+!outputs/.gitkeep
+!outputs/script/
+outputs/script/*
+!outputs/script/*.json
+!outputs/script/*.py
+!outputs/script/*.ps1
+!outputs/script/*.txt
+*.log
+

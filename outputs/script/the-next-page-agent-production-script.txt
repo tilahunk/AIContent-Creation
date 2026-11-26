@@ -1,0 +1,141 @@
+THE NEXT PAGE
+Live-action short film production brief for a video-generation agent
+
+PROJECT
+Create an original, dialogue-led short film set in a contemporary Addis Ababa
+neighborhood bookbindery. Target runtime: 75 seconds of story plus a 4-second end
+card. Deliver both 16:9 horizontal and 9:16 vertical edits.
+
+NON-NEGOTIABLE FORMAT
+- Make a live-action, photorealistic film with fictional Ethiopian adult performers.
+- Show actors visibly speaking to one another with natural facial expression and
+  believable lip sync. Use shot/reverse-shot coverage for conversations.
+- Do not make an illustration, animation, slideshow, still-image montage, or
+  Ken-Burns video.
+- Keep the characters visually consistent between scenes. Do not imitate any
+  identifiable real person or celebrity.
+- Dialogue is intended to be spoken in natural Amharic, with accurate English
+  subtitles. The dialogue below is the English meaning guide. Have a fluent Amharic
+  speaker review the localization; do not invent phrases or use a caricatured accent.
+
+STORY
+On the morning Hana returns the key to her grandfather's bookbindery, a young
+neighbor asks them to repair a treasured notebook. The repair brings people back
+to the shop, and Hana and her grandfather decide to open it again.
+
+CAST AND WARDROBE
+HANA, 23: Ethiopian woman, observant and practical. Contemporary white cotton
+habesha kemis with restrained handwoven tibeb borders and a lightweight netela
+shawl. The cloth should look naturally woven and comfortable for working.
+
+BEKELE, 68: Ethiopian man, Hana's grandfather and a patient bookbinder. Simple
+white cotton shirt with a handwoven gabi draped naturally over his shoulders.
+
+SAMI, 18: Ethiopian student and neighbor. Contemporary everyday clothes with a
+small, understated handwoven cotton scarf. He brings a worn notebook.
+
+NEIGHBORS: A small, varied group in contemporary clothing, with individual
+handwoven Ethiopian cotton details. Do not dress everyone identically or imply
+that one regional style represents every Ethiopian community.
+
+SCREENPLAY
+
+SCENE 1 - EXT. BOOKBINDERY, DAWN - 8 SECONDS
+Wide establishing shot of a lived-in Addis Ababa side street. No tourist
+landmarks. The shop shutters lift. Hana approaches, holding a brass key.
+
+HANA: I came to return the key.
+BEKELE (from inside): Then keep it.
+
+Camera: Move in from the street; cut to Hana's surprised reaction. Let the
+shutters and city ambience establish the place.
+
+SCENE 2 - INT. BOOKBINDERY, MORNING - 9 SECONDS
+Bekele stitches a worn book at the worktable. Hana sets the key down. Quiet,
+natural performances; the conversation is close and personal.
+
+HANA: The shop is closing.
+BEKELE: Not this morning.
+
+Camera: Over-the-shoulder coverage, then a close shot of the needle and thread.
+
+SCENE 3 - INT. BOOKBINDERY - 9 SECONDS
+Hana folds an empty carton. Bekele smooths the repaired cover and leaves space
+beside it on the counter.
+
+HANA: Who will come here now?
+BEKELE: Someone who needs a page repaired.
+
+Camera: Hold on Hana's face before she looks back at the open space on the counter.
+
+SCENE 4 - INT. BOOKBINDERY, LATER - 10 SECONDS
+Sami enters with a battered school notebook held carefully in both hands.
+
+SAMI: Can you mend this? My mother's handwriting is inside.
+BEKELE: Let's see what we can do.
+
+Hana reaches for the thread before Bekele asks. Sami watches, hopeful but unsure.
+Use clear, continuous dialogue and visible speaker turns.
+
+SCENE 5 - INT. WORKTABLE - 10 SECONDS
+Bekele teaches Hana a simple binding stitch. The thread catches; she tries again.
+
+BEKELE: Start at the torn edge.
+HANA: And if it tears again?
+BEKELE: We mend it again.
+
+Camera: Begin on their hands, then show both faces sharing a small smile. Keep
+the woven tibeb and gabi visible without turning the clothing into costume.
+
+SCENE 6 - INT. BOOKBINDERY, AFTERNOON - 10 SECONDS
+Neighbors arrive with a book, a family photograph, and helping hands. Hana clears
+the carton and makes room around the table.
+
+NEIGHBOR: Can I bring something tomorrow?
+HANA: Bring a book. Bring a friend.
+
+Camera: Natural overlapping greetings, then a moving group shot. Keep the main
+dialogue audible above the room tone.
+
+SCENE 7 - INT. BOOKBINDERY, SUNSET - 9 SECONDS
+The neighbors form a small reading circle. Sami reads from the repaired notebook.
+
+SAMI: I thought this page was lost.
+HANA: Not anymore.
+
+Camera: Let the room listen before cutting to Bekele's proud, restrained reaction.
+
+SCENE 8 - INT./EXT. BOOKBINDERY, EVENING - 10 SECONDS
+Hana places the notebook on the shelf and picks up the brass key.
+
+HANA: Should I take it?
+BEKELE: No. We open early.
+
+They share a quiet laugh. End on the warm shop window and the key hanging beside
+the door.
+
+END CARD - 4 SECONDS
+THE NEXT PAGE
+An original story
+
+PERFORMANCE, CAMERA, AND SOUND
+- Natural, understated acting; warm intergenerational affection without melodrama.
+- Keep each speaker's mouth visible during their lines. Avoid narration over
+  dialogue. Preserve natural pauses and reactions.
+- Use grounded contemporary production design, practical lighting, close
+  textures of paper, thread, and handwoven cotton.
+- Record clear dialogue, room tone, page turns, thread movement, shutters, and
+  restrained neighborhood ambience. Use an original, subtle score; no borrowed
+  recordings or copyrighted music.
+- Compose key action near the center-safe area so both aspect ratios can be
+  reframed without cutting off faces or dialogue performances.
+- Do not generate readable signs or labels. Add accurate English subtitles
+  during editing.
+
+DELIVERABLES
+1. Eight live-action scene clips named shot_001.mp4 through shot_008.mp4, with
+   dialogue audio synchronized to the visible actors.
+2. Clean dialogue audio stems and an original music WAV.
+3. English subtitle file (SRT).
+4. Final 16:9 and 9:16 MP4 exports, each about 79 seconds including the end card.
+5. A brief note identifying any synthetic actors or generated media.
